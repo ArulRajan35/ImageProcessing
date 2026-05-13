@@ -1,0 +1,7 @@
+{
+  "num_samples": 36,
+  "rmse_mean": 0.01847531522313754,
+  "mae_mean": 0.011537520033824775,
+  "rel_error_mean": 52580.25302580992,
+  "note": "Metrics are against MiDaS pseudo-labels (teacher), not absolute LiDAR ground truth."
+}

@@ -1,0 +1,11 @@
+{
+  "processed_count": 235,
+  "failed_count": 0,
+  "train_count": 164,
+  "val_count": 35,
+  "test_count": 36,
+  "dataset_mean": 0.38974471187337917,
+  "dataset_std": 0.24202858967349886,
+  "image_size": 384,
+  "augmentation_enabled": false
+}

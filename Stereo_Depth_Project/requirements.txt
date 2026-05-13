@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+opencv-python
+numpy
+matplotlib
+onnxruntime
+streamlit
+pandas
+requests
+Pillow
+tqdm
+scikit-learn
